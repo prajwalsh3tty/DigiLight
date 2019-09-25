@@ -1,0 +1,23 @@
+{
+  "name": "digilight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajwalsh3tty/DigiLight.git"
+  },
+  "author": "Prajwal Shetty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prajwalsh3tty/DigiLight/issues"
+  },
+  "homepage": "https://github.com/prajwalsh3tty/DigiLight",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
